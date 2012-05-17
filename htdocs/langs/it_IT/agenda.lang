@@ -1,0 +1,83 @@
+# Dolibarr language file - it_IT - agenda 
+CHARSET=UTF-8
+Actions                               =Azioni
+ActionsArea 			      =Sezione azioni (eventi e compiti)
+Agenda 				      =Ordine del giorno
+Agendas 			      =Ordini del giorno
+Calendar 			      =Calendario
+Calendars 			      =Calendari
+AffectedTo 			      =Azione assegnata a
+DoneBy 				      =Realizzato da
+Events 				      =Eventi
+SearchAnAction 			      =Cerca un'azione / compito
+MenuToDoActions 		      =Tutte le azioni incomplete
+MenuDoneActions 		      =Tutte le azioni archiviate
+MenuToDoMyActions 		      =Le mie azioni incomplete 
+MenuDoneMyActions 		      =Le mie azioni completate
+ListOfEvents 			      =Elenco degli eventi Dolibarr
+ActionsAskedBy 			      =Azioni richieste da
+ActionsToDoBy 			      =Azioni assegnate a
+ActionsDoneBy 			      =Azioni fatte da
+AllMyActions 			      =Tutte le mie azioni / compiti
+AllActions 			      =Tutte le azioni / compiti
+ViewList 			      =Visualizza l'elenco
+ViewCal 			      =Visualizza il calendario
+ViewWithPredefinedFilters 	      =Vedere con i filtri predefiniti
+AutoActions 			      =Riempimento automatico di ordine del giorno
+AgendaAutoActionDesc 		      =Definire qui gli eventi per cui si desidera che Dolibarr crei automaticamente una azione nel giorno. Se non è selezionata (impostazione predefinita), le azioni saranno aggiunte esclusivamente in maniera manuale.
+AgendaSetupOtherDesc 		      =Questa pagina consente di configurare gli altri parametri del modulo di ordine del giorno.
+ActionsEvents 			      =Eventi per i quali creare un azione
+PropalValidatedInDolibarr 	      =Proposta convalidata
+InvoiceValidatedInDolibarr 	      =Fattura convalidata
+OrderValidatedInDolibarr 	      =Ordine convalidato
+NewCompanyToDolibarr 		      =Creato da parte di terzi
+DateActionPlannedStart 		      =Pianificato per data di inizio
+DateActionPlannedEnd 		      =Pianificato per data di fine
+DateActionDoneStart 		      =Data effettiva di inizio
+DateActionDoneEnd 		      =Data effettiva di fine
+DateActionStart 		      =Data di inizio
+DateActionEnd 			      =Data di fine
+
+// Date 2009-01-18 19:41:54
+// START - Lines generated via parser
+// Reference language: en_US
+ListOfActions=Lista degli eventi
+Location=Località
+AgendaUrlOptions1=È inoltre possibile aggiungere seguenti parametri di filtro in uscita:
+AgendaUrlOptions2=<b>login=<b>login = %s</b> per limitare la produzione di azioni create da, o che coinvolgono <b>utente %s.</b>
+AgendaUrlOptions3=<b>logina=<b>logina = %s</b> per limitare la produzione di azioni create da <b>utente %s.</b>
+AgendaUrlOptions4=<b>logint=<b>logint = %s</b> per limitare la produzione di azioni <b>compromesso %s</b> utente.
+AgendaUrlOptions5=<b>logind=<b>logind = %s</b> per limitare la produzione di azioni fatte da <b>utente %s.</b>
+AgendaShowBirthdayEvents=Visualizza i compleanni dei contatti
+AgendaHideBirthdayEvents=Nascondi i compleanni dei contatti
+// Date 2009-01-18 19:41:54
+// STOP - Lines generated via parser
+
+
+// START - Lines generated via autotranslator.php tool (2010-07-17 11:32:28).
+// Reference language: en_US
+InterventionValidatedInDolibarr=%s intervento convalidato
+// STOP - Lines generated via autotranslator.php tool (2010-07-17 11:32:44).
+
+
+// START - Lines generated via autotranslator.php tool (2011-06-26 15:51:22).
+// Reference language: en_US -> it_IT
+EventOnFullDay=Evento in giornata
+ViewDay=Vista Giorno
+ViewWeek=Settimana vista
+AgendaExtSitesDesc=Questa pagina consente di configurare calendari esterni.
+InvoiceBackToDraftInDolibarr=%s fattura tornare allo stato di progetto
+ProposalSentByEMail=%s proposta commerciale inviata per email
+OrderSentByEMail=Cliente %s ordine inviata per email
+InvoiceSentByEMail=Cliente %s fattura inviata per email
+SupplierOrderSentByEMail=Fornitore %s ordine inviata per email
+SupplierInvoiceSentByEMail=Fornitore %s fattura inviata per email
+ShippingSentByEMail=%s spedizione inviata per email
+ExtSites=Calendari esterni
+ExtSites=Calendari esterni
+ExtSitesEnableThisTool=come calendari esterni in agenda
+ExtSitesNbOfAgenda=Numero di calendari
+AgendaExtNb=Calendario nb %s
+ExtSiteUrlAgenda=URL per accedere. ICal file
+ExtSiteNoLabel=Nessuna descrizione
+// STOP - Lines generated via autotranslator.php tool (2011-06-26 15:52:04).

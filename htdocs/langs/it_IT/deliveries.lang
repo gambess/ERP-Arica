@@ -1,0 +1,48 @@
+# Dolibarr language file - it_IT - deliveries
+CHARSET=UTF-8
+Delivery=Consegna
+Deliveries=Consegne
+DeliveryCard=Scheda consegna
+DeliveryOrder=Ordine di consegna
+DeliveryOrders=Ordini di consegna
+DeliveryDate=Data di consegna
+CreateDeliveryOrder=Genera ordine di consegna
+SetDeliveryDate=Imposta la data di spedizione
+ValidateDeliveryReceipt=Convalida la ricevuta di consegna
+ValidateDeliveryReceiptConfirm=Sei sicuro di voler convalidare questa ricevuta di consegna?
+
+# merou PDF model						   
+NameAndSignature				=Nome e firma : 
+ToAndDate 						=A___________________________________ il ____/_____/__________
+GoodStatusDeclaration 			=Dichiaro di aver ricevuto le merci di cui sopra in buone condizioni,
+Deliverer						=Chi consegna : 
+Date 							=Data : 
+Sender							=Mittente
+Recipient						=Destinatario
+ICOMM							=N° Part. IVA : 
+APE								=Iscr. trib. : 
+SIRET							=R.E.A. : 
+
+// Date 2009-01-18 19:41:54
+// START - Lines generated via parser
+// Reference language: en_US
+DeliveryDateShort=Data consegna
+QtyDelivered=Quantità consegnata
+DeliveryMethod=Metodo di consegna
+TrackingNumber=Numero di tracking
+// Date 2009-01-18 19:41:54
+// STOP - Lines generated via parser
+
+
+// START - Lines generated via autotranslator.php tool (2009-08-13 20:49:18).
+// Reference language: en_US
+CHARSET=UTF-8
+// STOP - Lines generated via autotranslator.php tool (2009-08-13 20:49:18).
+
+
+// START - Lines generated via autotranslator.php tool (2011-06-26 15:51:22).
+// Reference language: en_US -> it_IT
+DeleteDeliveryReceipt=Eliminare ricevuta di consegna
+DeleteDeliveryReceiptConfirm=Sei sicuro di voler cancellare <b>%s</b> ricevuta di consegna?
+DeliveryNotValidated=Consegna non convalidato
+// STOP - Lines generated via autotranslator.php tool (2011-06-26 15:52:21).

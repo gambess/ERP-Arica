@@ -1,0 +1,105 @@
+# Dolibarr language file - it_IT - stocks   
+CHARSET=UTF-8
+WarehouseCard				    =Scheda Magazzino
+Warehouse				    =Magazzino 
+NewWarehouse				    =Nuovo deposito / magazzino
+MenuNewWarehouse			    =Nuovo Magazzino 
+WarehouseOpened				    =Magazzino aperto 
+WarehouseClosed				    =Magazzino chiuso 
+WarehouseSource				    =Fonte magazzino 
+WarehouseTarget				    =Destinatari magazzino 
+ValidateSending				    =Convalida spedizione 
+CancelSending				    =Annulla spedizione 
+DeleteSending				    =Elimina spedizione 
+Stock					    =Scorte 
+Stocks					    =Scorte di magazzino
+Movement				    =Movimento 
+Movements				    =Movimenti 
+ErrorWarehouseRefRequired		    =Riferimento magazzino mancante
+ErrorWarehouseLabelRequired		    =Etichetta del magazzino mancante 
+CorrectStock				    =Scorte di magazzino corrette 
+ListOfWarehouses			    =Elenco dei magazzini 
+ListOfStockMovements			    =Elenco dei movimenti delle scorte 
+StocksArea				    =Sezione scorte di magazzino 
+Location				    =Posizione
+LocationSummary				    =Denominazione posizione 
+NumberOfProducts			    =Numero totale dei prodotti 
+LastMovement				    =Ultimo movimento 
+LastMovements				    =Ultimi movimenti 
+Units					    =Unità 
+Unit					    =Unità 
+StockCorrection				    =Correzione scorte  
+StockMovement				    =Movimento scorta
+StockMovements				    =Movimenti scorte 
+NumberOfUnit				    =Numero di unità 
+TotalStock				    =Totale in scorta 
+StockTooLow				    =Scorta insufficente
+EnhancedValue				    =Incremento valore 
+EnhancedValueOfWarehouses		    =Incremento valore dei magazzini  
+UserWarehouseAutoCreate			    =Creare un magazzino automaticamente durante la creazione di un utente 
+QtyDispatched				    =Quantità spedita
+OrderDispatch				    =Spedizione dell'ordine  
+RuleForStockManagement			    =Regola per la gestione delle scorte 
+DeStockOnBill			    =Diminuzione delle scorte effettive all'emissione di fatture / note di credito<br /> (attenzione: con questa opzione vengono modificate solo le scorte del magazzino 1)
+DeStockOnValidateOrder		    =Diminuzione delle scorte effettive su convalida ordini<br /> (attenzione: con questa opzione vengono modificate solo le scorte del magazzino 1) 
+DeStockOnShipment		    =Diminuzione delle scorte effettive con la spedizione (Raccomandato) 
+ReStockOnBill			    =Aumento delle scorte effettive con fatture / note di credito <br />(attenzione: con questa opzione vengono modificate solo le scorte del magazzino 1) 
+ReStockOnValidateOrder		    =Aumente delle scorte effettive su convalida ordini<br /> (attenzione: con questa opzione vengono modificate solo le scorte del magazzino 1) 
+StockDiffPhysicTeoric			    =Motivo della differenza tra scorta effettiva e teorica 
+StockLimitShort				    =Limite 
+StockLimit				    =Limite minimo scorta per segnalazioni 
+PhysicalStock				    =Scorta effettiva 
+RealStock				    =Scorta reali 
+TheoreticalStock			    =Scorta teoriche
+VirtualStock				    =Scorta virtuali 
+MininumStock				    =Scorta minima
+StockUp					    =Scorta massima 
+MininumStockShort			    =Scorta min
+StockUpShort				    =Scorta max 
+IdWarehouse				    =Id magazzino 
+DescWareHouse				    =Descrizione magazzino 
+LieuWareHouse				    =Localizzazione magazzino
+
+
+// Date 2009-01-18 19:41:54
+// START - Lines generated via parser
+// Reference language: en_US
+PMPValue=Rapporto
+RuleForStockManagementDecrease=Regola di gestione della diminuzione delle scorte
+RuleForStockManagementIncrease=Regola di gestione per aumento delle scorte
+WarehousesAndProducts=Magazzini e prodotti
+// Date 2009-01-18 19:41:54
+// STOP - Lines generated via parser
+
+
+// START - Lines generated via autotranslator.php tool (2009-08-13 20:49:18).
+// Reference language: en_US
+CHARSET=UTF-8
+PMPValueShort=WAP
+AverageUnitPricePMPShort=Media dei prezzi scorte
+AverageUnitPricePMP=Media dei prezzi delle scorte
+EstimatedStockValueShort=Valore stimato scorte
+EstimatedStockValue=Valore stimato delle scorte
+// STOP - Lines generated via autotranslator.php tool (2009-08-13 20:49:18).
+
+
+// START - Lines generated via autotranslator.php tool (2010-07-17 11:32:28).
+// Reference language: en_US
+WarehouseEdit=Modificare magazzino
+ReStockOnDispatchOrder=Aumentare le scorte reale sul manuale di dispacciamento in magazzini, dopo ordine fornitore ricevente
+OrderStatusNotReadyToDispatch=Ordine non è ancora o non più uno status che consenta di spedizione dei prodotti nei magazzini delle scorte.
+NoPredefinedProductToDispatch=Nessun prodotto predefinita per questo oggetto. Quindi non dispacciamento in magazzino è necessario.
+DispatchVerb=Spedizione
+DeleteAWarehouse=Eliminare un magazzino
+ConfirmDeleteWarehouse=Sei sicuro di voler cancellare il <b>%s</b> magazzino?
+PersonalStock=%s scorta personale
+ThisWarehouseIsPersonalStock=Questo deposito rappresenta riserva personale di %s %s
+// STOP - Lines generated via autotranslator.php tool (2010-07-17 11:32:35).
+
+
+// START - Lines generated via autotranslator.php tool (2011-06-26 15:51:22).
+// Reference language: en_US -> it_IT
+SellPriceMin=Prezzo di vendita unitario
+EstimatedStockValueSellShort=Valore da vendere
+EstimatedStockValueSell=Valore da vendere
+// STOP - Lines generated via autotranslator.php tool (2011-06-26 15:52:36).

@@ -1,0 +1,36 @@
+/*
+ * Language code: it_IT
+ * Automatic generated via autotranslator.php tool
+ * Generation date 2009-08-13 20:49:18
+ */
+
+
+// START - Lines generated via autotranslator.php tool (2009-08-13 20:49:18).
+// Reference language: en_US
+CHARSET=UTF-8
+CommunitySupport=Forum / Wiki di supporto
+EMailSupport=E-mail assistenza
+RemoteControlSupport=Assistenza On-line 
+OtherSupport=Altre forme di assistenza
+ToSeeListOfAvailableRessources=Per contattare / vedere le risorse disponibili:
+ClickHere=Clicca qui
+HelpCenter=Centro assistenza
+DolibarrHelpCenter=Centro di assistenza e supporto Dolibarr
+ToGoBackToDolibarr=In caso contrario, fare clic <a href="%s">qui per utilizzare Dolibarr</a>
+TypeOfSupport=Tipi di assistenza
+TypeSupportCommunauty=Comunità (gratuito)
+TypeSupportCommercial=Commerciale
+TypeOfHelp=Tipo di aiuto
+NeedHelpCenter=Hai bisogno di aiuto o sostegno?
+Efficiency=Efficienza
+TypeHelpOnly=Solo aiuto
+TypeHelpDev=Guida per lo sviluppo
+TypeHelpDevForm=Aiuto per lo Sviluppo e la Formazione
+ToGetHelpGoOnSparkAngels1=Alcune aziende possono fornire un veloce (a volte immediata) e una più efficiente supporto online prendendo il controllo del computer. Tali aiuti possono essere trovati sul sito <b>web %s:</b>
+ToGetHelpGoOnSparkAngels3=È inoltre possibile accedere alla lista di tutti i servizi a disposizione per Dolibarr, per questo, fate clic sul pulsante
+ToGetHelpGoOnSparkAngels2=Può accadere che alcune aziend non siano disponibili al momento della ricerca, nel caso usate il filtro "tutte le disponibilità". Sarete in grado di inviare più richieste.
+BackToHelpCenter=In caso contrario, fare clic qui per andare <a href="%s">indietro alla home page Centro assistenza.</a>
+LinkToGoldMember=È possibile chiamare uno dei servizi preselezionati da Dolibarr per la propria lingua ( %s) cliccando sul relativo Widget (stato e prezzo massimo vengono aggiornati automaticamente):
+PossibleLanguages=Lingue supportate
+MakeADonation=Aiuto il progetto Dolibarr, effettua una donazione
+// STOP - Lines generated via autotranslator.php tool (2009-08-13 20:49:18).

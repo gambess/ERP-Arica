@@ -1,0 +1,58 @@
+﻿# Dolibarr language file - pt_PT - agenda
+CHARSET=UTF-8
+Actions=Acções
+ActionsArea=Área de Acções
+Agenda=Agenda
+Agendas=Agendas
+Calendar=Calendário
+Calendars=Calendários
+AffectedTo=Afecta o
+DoneBy=
+Events=Eventos
+ListOfActions=Lista de Eventos
+Location=Localização
+SearchAnAction=
+MenuToDoActions=
+MenuDoneActions=
+MenuToDoMyActions=
+MenuDoneMyActions=
+ListOfEvents=
+ActionsAskedBy=
+ActionsToDoBy=
+ActionsDoneBy=
+AllMyActions=
+AllActions=
+ViewList=Ver Lista
+ViewCal=Ver Calendário
+ViewWithPredefinedFilters=
+AutoActions=
+AgendaAutoActionDesc=
+AgendaSetupOtherDesc=
+ActionsEvents=
+PropalValidatedInDolibarr=
+InvoiceValidatedInDolibarr=
+OrderValidatedInDolibarr=
+NewCompanyToDolibarr=
+DateActionPlannedStart=Planiada data de inicio
+DateActionPlannedEnd=Planeada data fim
+DateActionDoneStart=data Real de Inicio
+DateActionDoneEnd=Data Real de Fim
+DateActionStart=Data de Inicio
+DateActionEnd=Data Fim
+AgendaUrlOptions1=Também pode adicionar os seguintes parametros de filtro de saída:
+AgendaUrlOptions2=<b>login=%s</b>para restringir a produção para acções criadas por, ou afectadas a fazer pelo utilizador <b>%s</b>.
+AgendaUrlOptions3=<b>logina=%s</b> para restringir a produção para acções criadas pelo utilizador <b>%s</b>.
+AgendaUrlOptions4=<b>logint=%s</b> para restringir a produção para as acções para o utilizador afectado <b>%s</b>.
+AgendaUrlOptions5=<b>logind=%s</b> para restringir a produção para acções feitas pelo utilizador <b>%s</b>.
+AgendaShowBirthdayEvents=Mostrar Aniversários dos Contactos
+AgendaHideBirthdayEvents=Esconder Aniversários dos Contactos
+
+
+// START - Lines generated via autotranslator.php tool (2010-07-17 11:42:52).
+// Reference language: en_US
+InterventionValidatedInDolibarr=Intervensjon %s validert
+InterventionValidatedInDolibarr=Interventie sssss gevalideerd
+MenuToDoActions=Wszystkich działań niekompletne
+InterventionValidatedInDolibarr=Sssss interwencji zatwierdzone
+InterventionValidatedInDolibarr=%s Intervenção validado
+// STOP - Lines generated via autotranslator.php tool (2010-07-17 11:42:53).

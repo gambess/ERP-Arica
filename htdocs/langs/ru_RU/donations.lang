@@ -1,0 +1,49 @@
+/*
+ * Language code: ru_RU
+ * Automatic generated via autotranslator.php tool
+ * Generation date 2009-01-19 21:30:52
+ */
+
+
+// Date 2009-01-19 21:30:52
+// START - Lines generated via autotranslator.php tool.
+// Reference language: en_US
+CHARSET=UTF-8
+Donation=Пожертвования
+Donationss=Пожертвования
+Donor=Донор
+Donors=Доноры
+AddDonation=Добавить пожертвование
+NewDonation=Новые пожертвование
+DonationPromise=Подарочные обещание
+PromisesNotValid=Не подтверждены обещания
+PromisesValid=Удостоверенная обещания
+DonationsPaid=Пожертвования оплачивается
+DonationsReceived=Пожертвования, полученные
+PublicDonation=Общественная пожертвование
+DonationsNumber=Пожертвования число
+DonationsArea=Пожертвования области
+DonationStatusPromiseNotValidated=Проект обещают
+DonationStatusPromiseValidated=Удостоверенная обещание
+DonationStatusPaid=Полученные пожертвования
+DonationStatusPromiseNotValidatedShort=Черновик
+DonationStatusPromiseValidatedShort=Подтвержденные
+DonationStatusPaidShort=Поступило
+ValidPromise=Проверить обещания
+BuildDonationReceipt=Build получения
+DonationsModels=Документы моделей пожертвование квитанции
+// Date 2009-01-19 21:30:52
+// STOP - Lines generated via parser
+
+
+// START - Lines generated via autotranslator.php tool (2009-08-13 21:14:36).
+// Reference language: en_US
+Donations=Пожертвования
+// STOP - Lines generated via autotranslator.php tool (2009-08-13 21:14:36).
+
+
+
+// START - Lines generated via autotranslator.php tool (2010-09-04 01:33:40).
+// Reference language: en_US -> ru_RU
+ValidPromess=Проверить обещания
+// STOP - Lines generated via autotranslator.php tool (2010-09-04 01:40:14).

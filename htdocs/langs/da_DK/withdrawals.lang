@@ -1,0 +1,89 @@
+/*
+ * Lince Translation File
+ * Filename: 
+ * Language code: da_DA
+ * Automatic generated via autotranslator.php tool
+ * Generation date 2009-01-19 21:26:39
+ */
+
+
+// Date 2009-01-19 21:26:39
+// START - Lines generated via autotranslator.php tool.
+// Reference language: en_US
+CHARSET=UTF-8
+StandingOrdersArea=Stående ordrer område
+CustomersStandingOrdersArea=Kunder stående ordrer område
+StandingOrders=Stående ordrer
+StandingOrder=Stående ordrer
+NewStandingOrder=Nye stående ordre
+Withdrawals=Tilbagekøb
+Withdrawal=Tilbagetrækning
+WithdrawalsReceipts=Tilbagekøb kvitteringer
+WithdrawalReceipt=Tilbagetrækning modtagelse
+WithdrawalReceiptShort=Modtagelse
+LastWithdrawalReceipts=Seneste %s tilbagetrækning kvitteringer
+WithdrawedBills=Withdrawed fakturaer
+WithdrawalsLines=Tilbagekøb linjer
+RequestStandingOrderToTreat=Anmodning om stående ordrer til behandling
+RequestStandingOrderTreated=Anmodning om stående ordrer behandles
+CustomersStandingOrders=Kunden stående ordrer
+CustomerStandingOrder=Kunden stående ordre
+NbOfInvoiceToWithdraw=Nb af faktura med trække anmodning
+InvoiceWaitingWithdraw=Faktura afvente trække
+AmountToWithdraw=Beløb til at trække
+WithdrawsRefused=Tilbagekalder nægtet
+NoInvoiceToWithdraw=Nr. kundens faktura i betalingssystemer mode "trække" venter. Gå på 'Træk' fane på faktura-kort til at fremsætte en anmodning.
+ResponsibleUser=Ansvarlig bruger
+WithdrawalsSetup=Tilbagetrækning setup
+WithdrawStatistics=Tilbagekalder »statistik
+WithdrawRejectStatistics=Trække afviser 'statistikker
+LastWithdrawalReceipt=Seneste %s tilbagetrækning kvitteringer
+MakeWithdrawRequest=Foretag en trække anmodning
+ThirdPartyBankCode=Tredjepart bankkode
+ThirdPartyDeskCode=Tredjepart desk-kode
+NoInvoiceCouldBeWithdrawed=Nr. faktura withdrawed med succes. Kontroller, at fakturaen er for selskaber med en gyldig forbud.
+ClassCredited=Klassificere krediteres
+ClassCreditedConfirm=Er du sikker på at du vil klassificere denne tilbagetrækning modtagelse som krediteres på din bankkonto?
+// Date 2009-01-19 21:26:39
+// STOP - Lines generated via parser
+
+
+// START - Lines generated via autotranslator.php tool (2010-07-17 11:19:38).
+// Reference language: en_US
+StandingOrderToProcess=For at kunne behandle
+StandingOrderProcessed=Forarbejdet
+TransData=Dato Transmission
+TransMetod=Metode Transmission
+Send=Send
+Lines=Lines
+StandingOrderReject=Udstedelse en forkaste
+WithdrawalRefused=Udbetalinger Refuseds
+WithdrawalRefusedConfirm=Er du sikker på du vil indtaste en tilbagetrækning afvisning for samfundet
+RefusedData=Dato for afvisning
+RefusedReason=Årsag til afvisning
+RefusedInvoicing=Fakturering afvisningen
+NoInvoiceRefused=Oplad ikke afvisning
+InvoiceRefused=Oplad afslag til kunden
+Status=Status
+StatusUnknown=Ukendt
+StatusWaiting=Venter
+StatusCredited=Krediteres
+StatusRefused=Afviste
+StatusMotif0=Uspecificeret
+StatusMotif1=Levering insuffisante
+StatusMotif2=Tirage conteste
+StatusMotif3=Ingen Tilbagetrækning for
+StatusMotif4=Kunde Bestil
+StatusMotif5=RIB inexploitable
+StatusMotif6=Konto uden balance
+StatusMotif7=Retslig afgørelse
+StatusMotif8=Andre grunde
+CreateAll=Tilbagekalde alle
+CreateGuichet=Kun kontor
+CreateBanque=Kun bank
+OrderWaiting=Venter på behandling
+NotifyTransmision=Tilbagetrækning Transmission
+NotifyEmision=Tilbagetrækning Emission
+NotifyCredit=Tilbagetrækning Credit
+NumeroNationalEmetter=National Transmitter Antal
+// STOP - Lines generated via autotranslator.php tool (2010-07-17 11:21:54).
